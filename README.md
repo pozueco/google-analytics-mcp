@@ -148,6 +148,11 @@ Credentials saved to file: [PATH_TO_CREDENTIALS_JSON]
     }
     ```
 
+### Deploy to Cloud Run (optional)
+
+For a step-by-step guide to containerize and deploy this MCP server to Cloud
+Run, see [CLOUD_RUN.md](CLOUD_RUN.md).
+
 ## Try it out 🥼
 
 Launch Gemini Code Assist or Gemini CLI and type `/mcp`. You should see
